@@ -1,0 +1,131 @@
+
+                    //int tempRandom;
+
+                    //for (int i = 0; i < DamageList.Count;)
+                    //{
+                    //    if (EnemyField[DamageList[i].X, DamageList[i].Y] == -1)
+                    //    {
+                    //        DamageList.RemoveAt(i);
+                    //    }
+                    //    else
+                    //    {
+                    //        i++;
+                    //    }
+                    //}
+
+                    //CheckRememberDamage();
+
+                    //if (DamageList.Count == 1)
+                    //{
+
+                    //    tempRandom = 0;
+                    //    Point tempPnt = DamageList[tempRandom];
+                    //    if(Shoot(EnemyField, tempPnt.X, tempPnt.Y))
+                    //    {
+                    //        RememberDamage.Add(tempPnt);
+                    //        DamageList.RemoveAt(tempRandom);
+                    //        FillBlacks(EnemyField, tempPnt.X, tempPnt.Y);
+
+                    //        for (int i = 0; i < RememberDamage.Count; i++)
+                    //        {
+                    //            Point tempPnt2 = RememberDamage[i];
+
+                    //            EnemyField[tempPnt2.X, tempPnt2.Y] = -1;
+                    //        }
+                    //        RememberDamage.Clear();
+                    //    }
+                    //}
+                    //else
+                    //{
+
+                    //    tempRandom = 0;
+                    //    Point tempPnt = DamageList[tempRandom];
+
+                    //    if (Shoot(EnemyField, tempPnt.X, tempPnt.Y)) //Удаление ненужных полей
+                    //    {
+                    //        RememberDamage.Add(tempPnt);
+
+                    //        DamageList.RemoveAt(tempRandom);
+
+                    //        if (tempPnt.X - tempX != 0)
+                    //        {
+                    //            if (tempPnt.X - tempX < 0)
+                    //            {
+                    //                if (tempPnt.X > 0)
+                    //                {
+                    //                    if (EnemyField[tempPnt.X - 1, tempPnt.Y] == 0 || EnemyField[tempPnt.X - 1, tempPnt.Y] == 2)
+                    //                    {
+                    //                        DamageList.Add(new Point(tempPnt.X - 1, tempPnt.Y));
+                    //                    }
+                    //                }
+                    //            }
+                    //            else
+                    //            {
+                    //                if (tempPnt.X < FieldSize - 1)
+                    //                {
+                    //                    if (EnemyField[tempPnt.X + 1, tempPnt.Y] == 0 || EnemyField[tempPnt.X + 1, tempPnt.Y] == 2)
+                    //                    {
+                    //                        DamageList.Add(new Point(tempPnt.X + 1, tempPnt.Y));
+                    //                    }
+                    //                }
+                    //            }
+
+                    //            for (int i = 0; i < DamageList.Count;)
+                    //            {
+                    //                Point DLtemp = DamageList[i];
+
+                    //                if (DLtemp.X == tempX)
+                    //                {
+                    //                    DamageList.RemoveAt(i);
+                    //                }
+                    //                else
+                    //                {
+                    //                    i++;
+                    //                }
+                    //            }
+                    //        }
+                    //        else if (tempPnt.Y - tempY != 0)
+                    //        {
+                    //            if (tempPnt.Y - tempY < 0)
+                    //            {
+                    //                if (tempPnt.Y > 0)
+                    //                {
+                    //                    if (EnemyField[tempPnt.X, tempPnt.Y - 1] == 0 || EnemyField[tempPnt.X, tempPnt.Y - 1] == 2)
+                    //                    {
+                    //                        DamageList.Add(new Point(tempPnt.X, tempPnt.Y - 1));
+                    //                    }
+                    //                }
+                    //            }
+                    //            else 
+                    //            {
+                    //                if (tempPnt.Y < FieldSize - 1)
+                    //                {
+                    //                    if (EnemyField[tempPnt.X, tempPnt.Y + 1] == 0 || EnemyField[tempPnt.X, tempPnt.Y + 1] == 2)
+                    //                    {
+                    //                        DamageList.Add(new Point(tempPnt.X, tempPnt.Y + 1));
+                    //                    }
+                    //                }
+                    //            }
+
+                    //            for (int i = 0; i < DamageList.Count;)
+                    //            {
+                    //                Point DLtemp = DamageList[i];
+
+                    //                if (DLtemp.Y == tempY)
+                    //                {
+                    //                    DamageList.RemoveAt(i);
+                    //                }
+                    //                else
+                    //                {
+                    //                    i++;
+                    //                }
+                    //            }
+                    //        }
+                    //    }
+                    //    else
+                    //    {
+                    //        DamageList.RemoveAt(tempRandom);
+                    //        allowShoot = false;
+                    //        continue;
+                    //    }
+                    //}

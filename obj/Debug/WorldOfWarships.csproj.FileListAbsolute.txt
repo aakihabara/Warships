@@ -1,0 +1,55 @@
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\bin\Debug\WorldOfWarships.exe.config
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\bin\Debug\WorldOfWarships.exe
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\bin\Debug\WorldOfWarships.pdb
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.AssemblyReference.cache
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.SuggestedBindingRedirects.cache
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.Form1.resources
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.Properties.Resources.resources
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.GenerateResource.cache
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.CoreCompileInputs.cache
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.exe
+D:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.pdb
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\bin\Debug\WorldOfWarships.exe.config
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\bin\Debug\WorldOfWarships.exe
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\bin\Debug\WorldOfWarships.pdb
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.AssemblyReference.cache
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.SuggestedBindingRedirects.cache
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.Form1.resources
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.Properties.Resources.resources
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.GenerateResource.cache
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.CoreCompileInputs.cache
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.exe
+F:\Les\stud\3course\1sem\OOP\WorldOfWarships\obj\Debug\WorldOfWarships.pdb
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\bin\Debug\WorldOfWarships.exe.config
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\bin\Debug\WorldOfWarships.exe
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\bin\Debug\WorldOfWarships.pdb
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.AssemblyReference.cache
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.SuggestedBindingRedirects.cache
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.Form1.resources
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.Properties.Resources.resources
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.GenerateResource.cache
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.CoreCompileInputs.cache
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.exe
+C:\Users\Astra\OneDrive\Рабочий стол\WorldOfWarships\obj\Debug\WorldOfWarships.pdb
+D:\WorldOfWarships\bin\Debug\WorldOfWarships.exe.config
+D:\WorldOfWarships\bin\Debug\WorldOfWarships.exe
+D:\WorldOfWarships\bin\Debug\WorldOfWarships.pdb
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.AssemblyReference.cache
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.SuggestedBindingRedirects.cache
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.Form1.resources
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.Properties.Resources.resources
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.GenerateResource.cache
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.CoreCompileInputs.cache
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.exe
+D:\WorldOfWarships\obj\Debug\WorldOfWarships.pdb
+F:\WorldOfWarships\bin\Debug\WorldOfWarships.exe.config
+F:\WorldOfWarships\bin\Debug\WorldOfWarships.exe
+F:\WorldOfWarships\bin\Debug\WorldOfWarships.pdb
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.AssemblyReference.cache
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.SuggestedBindingRedirects.cache
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.Form1.resources
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.Properties.Resources.resources
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.GenerateResource.cache
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.csproj.CoreCompileInputs.cache
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.exe
+F:\WorldOfWarships\obj\Debug\WorldOfWarships.pdb
